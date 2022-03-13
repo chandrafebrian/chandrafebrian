@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chandrafebrian
-- 👀 I’m interested in programmer of software engineer
+- 👀 I’m interested of software engineer and DevOps Engineer
 - 🌱 I’m currently learning deep about software engineer and DevOps Engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on mail : chandrafebrian99@gmail.com
