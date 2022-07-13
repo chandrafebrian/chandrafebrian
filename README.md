@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chandrafebrian
 - 👀 I’m interested of software engineer and DevOps Engineer
-- 🌱 I’m currently learning deep about software engineer and DevOps Engineer
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently keep learning deep about software engineer and DevOps Engineer
 - 📫 How to reach me on mail : chandrafebrian99@gmail.com
 
 <!---
