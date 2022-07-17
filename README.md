@@ -3,14 +3,14 @@
 
 - my skill and tool
 
-• GoLang,
-• Pyton,
-• Docker,
-• AWS Could ,GCP, Firebase,
-• Kubernetes,
-• GitHub & GitLab,Ansible, Terraform , Grafana ,Prometheus
-• Dart, Use Framework Flutter,
-• Etc, and keep Learning.
+- GoLang,
+- Pyton,
+- Docker,
+- AWS Could ,GCP, Firebase,
+- Kubernetes,
+- GitHub & GitLab,Ansible, Terraform , Grafana ,Prometheus
+- Dart, Use Framework Flutter,
+- Etc, and keep Learning.
 
 
 - 📫 How to reach me on mail : chandrafebrian99@gmail.com
