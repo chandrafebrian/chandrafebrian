@@ -10,7 +10,7 @@
 - Kubernetes,
 - GitHub & GitLab,Ansible, Terraform , Grafana ,Prometheus
 - Dart, Use Framework Flutter,
-- Etc, and keep Learning.
+- keep Learning.
 
 
 - 📫 How to reach me on mail : chandrafebrian99@gmail.com
