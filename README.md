@@ -4,7 +4,6 @@
 - my skill and tool
 
 - GoLang,
-- Pyton,
 - Docker,
 - AWS Could ,GCP, Firebase,
 - Kubernetes,
