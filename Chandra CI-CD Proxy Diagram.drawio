@@ -1,0 +1,129 @@
+<mxfile host="app.diagrams.net" modified="2022-08-14T02:20:21.074Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="bhhB0D-OJPlUALhxduu5" version="20.2.3" type="github">
+  <diagram id="0atO-jyuRx2Y9k_TI8-Y" name="Page-1">
+    <mxGraphModel dx="1000" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WcdBsGtJtyxQLb3UvI6z-9" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="560" y="288.75" width="247.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wxgx2BSows4qkqaRE7x1-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wxgx2BSows4qkqaRE7x1-170" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wxgx2BSows4qkqaRE7x1-171" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="400" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wxgx2BSows4qkqaRE7x1-173" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="200" as="sourcePoint" />
+            <mxPoint x="200" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wxgx2BSows4qkqaRE7x1-175" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="320" as="sourcePoint" />
+            <mxPoint x="200" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wxgx2BSows4qkqaRE7x1-176" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="440" as="sourcePoint" />
+            <mxPoint x="200" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wxgx2BSows4qkqaRE7x1-178" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="200" as="sourcePoint" />
+            <mxPoint x="200" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wxgx2BSows4qkqaRE7x1-179" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="320" as="sourcePoint" />
+            <mxPoint x="360" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wxgx2BSows4qkqaRE7x1-180" value="Commit Code" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="220" y="280" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcdBsGtJtyxQLb3UvI6z-1" value="GitLab" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="271.25" y="288.75" width="247.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcdBsGtJtyxQLb3UvI6z-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="318.25" as="sourcePoint" />
+            <mxPoint x="520" y="318" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="318" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcdBsGtJtyxQLb3UvI6z-3" value="Run build Ci" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="288.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcdBsGtJtyxQLb3UvI6z-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="645" y="318.58" as="sourcePoint" />
+            <mxPoint x="735" y="318.3300000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="725" y="318.33" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcdBsGtJtyxQLb3UvI6z-5" value="On Every Commit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcdBsGtJtyxQLb3UvI6z-10" value="On every Commit&lt;br&gt;to Master Branch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="625" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WcdBsGtJtyxQLb3UvI6z-11" value="Build Docker images" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="288.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcdBsGtJtyxQLb3UvI6z-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="319.00000000000006" as="sourcePoint" />
+            <mxPoint x="950" y="318.7500000000003" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="940" y="318.75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcdBsGtJtyxQLb3UvI6z-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WcdBsGtJtyxQLb3UvI6z-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcdBsGtJtyxQLb3UvI6z-15" value="Deploy to Stagging" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="288.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcdBsGtJtyxQLb3UvI6z-16" value="env: Stagging" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="280" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcdBsGtJtyxQLb3UvI6z-19" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="880" y="415" width="377.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcdBsGtJtyxQLb3UvI6z-20" value="Deploy to Production" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcdBsGtJtyxQLb3UvI6z-21" value="env: Production" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="560" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcdBsGtJtyxQLb3UvI6z-22" value="Require Manual Interaction to make sure&lt;br&gt;everything running well" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="445" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WcdBsGtJtyxQLb3UvI6z-24" value="On every Commit&lt;br&gt;to Master Branch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="870" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WcdBsGtJtyxQLb3UvI6z-25" value="stagging-2pai-dev.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="940" y="258.75" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcdBsGtJtyxQLb3UvI6z-26" value="production-2pai-dev.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="935" y="620" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
