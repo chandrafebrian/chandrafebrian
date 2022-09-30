@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chandrafebrian
+- 👋 Hi, I’m @chandrafebrian | Ex-GOJEK | GTF FINANCIAL
 - 🌱 I’m currently as DevOps Engineer
 
 - my skill and tool
