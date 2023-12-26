@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @chandrafebrian | Ex-GOJEK | GTF FINANCIAL
-- 🌱 I’m currently as DevOps Engineer
+- 👋 Hi, I’m @chandrafebrian
+- 🌱 I’m currently as sr.DevOps Engineer | SRE
 
 - my skill and tool
 
@@ -8,8 +8,8 @@
 - AWS Could ,GCP, Firebase,
 - Kubernetes,
 - GitHub & GitLab,Ansible, Terraform , Grafana ,Prometheus
-- Dart, Use Framework Flutter,
-- keep Learning.
+- cloud engineer
+- etc.
 
 
 - 📫 How to reach me on mail : chandrafebrian99@gmail.com
