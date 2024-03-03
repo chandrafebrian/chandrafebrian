@@ -1,17 +1,5 @@
 - 👋 Hi, I’m @chandrafebrian
-- 🌱 I’m currently as sr.DevOps Engineer | SRE
-
-- my skill and tool
-
-- GoLang,
-- Docker,
-- AWS Could ,GCP, Firebase,
-- Kubernetes,
-- GitHub & GitLab,Ansible, Terraform , Grafana ,Prometheus
-- cloud engineer
-- etc.
-
-
+- 🌱 I’m currently as DevOps Engineer | SRE
 - 📫 How to reach me on mail : chandrafebrian99@gmail.com
 
 <!---
